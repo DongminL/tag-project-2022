@@ -13,7 +13,7 @@
 <br>
 2. 프로젝트 개발 툴
 
-  * Spring
+  * Spring Boot
   * My SQL
   * HTML
   * CSS
